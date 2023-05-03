@@ -46,8 +46,7 @@ header{
         "f1 f1 f1 f1 f1 f2 f2 f2 f3 f3 f3"
         "f1 f1 f1 f1 f1 f4 f4 f4 f5 f5 f5"
         "f6 f6 f6 f7 f7 f7 f8 f8 f8 f8 f8";
-        gap: 10px;
-        padding-bottom: 5px;
+        gap: 8px;
 }
 .foto{
     position: relative;
@@ -130,7 +129,7 @@ footer{
 a{
     background-color: rebeccapurple;
     color: black;
-    width: 200px;
+    width: 150px;
     height: 54px;
     border-radius: 10%;
     display: grid;
